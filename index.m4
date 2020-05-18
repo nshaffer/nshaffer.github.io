@@ -4,7 +4,6 @@ _startpage(Nathaniel Shaffer - Physics of Dense Plasmas)
 
 _title(`Nathaniel Shaffer - Physics of Dense Plasmas')
 
-
 _section(`Research Interests')
 
 _par(`I am broadly interested in the physics of dense plasmas.
@@ -57,7 +56,7 @@ _enumerate(
 `_article(Model of electron transport in dense plasmas spanning temperature regimes,
 `NRS and C. E. Starrett', Phys. Rev. E, xx, xxxxxx, 2020)',
 
-`_article(Model for the electrical conductivity in denes plasma mixtures,
+`_article(Model for the electrical conductivity in dense plasma mixtures,
 `C. E. Starrett, NRS, D. Saumon, R. Perriot, T. Nelson, L. A. Collins, and C. Ticknor', High Energy Density Phys., 36, 100752, 2020)',
 
 `_article(Tabular Electrical Conductivity for Aluminum,

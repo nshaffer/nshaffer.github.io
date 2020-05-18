@@ -1,10 +1,20 @@
 body {
-    background: #ffff99;
+    background: #fbf1c7;
+    color: #3c3836;
     font-family: sans-serif;
 }
 
 li {
-    margin: 5px
+    margin: 5px;
 }
+
+a:link {
+    color: #076678;          
+}
+
+a:visited {
+    color: #8f3f71;
+}
+
 
                     

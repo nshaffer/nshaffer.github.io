@@ -40,12 +40,12 @@ define(`_subsection',`dnl
 define(`_par',`dnl
 <p>$1</p>')
 
+define(`_timestamp', `dnl
+Last update: esyscmd(`date')')
+
 define(`_article', `dnl
 "$1"<br>
 $2, <i>$3</i> <b>$4</b>, $5 ($6).')
-
-define(`_timestamp', `dnl
-Last update: esyscmd(`date')')
 
 define(`_activity', `dnl
 $1 - $2<br>
@@ -54,13 +54,13 @@ $3')
 define(`_link', `dnl
 <a href=$2>$1</a>')
 
-define(`_vocab', `dnl
-$1 - $2<br>
-<i>$3</i>')
-
-define(`_quotation', `dnl
-"$1" - $2
-')
+define(`_navbar', `dnl
+<ul class="nav">
+_listitems(dnl
+_link(`Home', `"index.html"'),
+_link(`Vitae', `"vitae.html"'),
+_link(`Resources', `"resources.html"'))
+</ul>')
 
 define(`LQ', `dnl
 changequote([,])`dnl'

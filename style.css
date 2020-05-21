@@ -16,5 +16,32 @@ a:visited {
     color: #8f3f71;
 }
 
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3c3836;
+}
+
+ul.nav > li {
+    float: left;
+}
+
+ul.nav > li > a {
+    display: block;
+    color: #fbf1c7;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.nav > li > a:hover {
+    background-color: #076678;
+}
+
+    
+               
+                
 
                     

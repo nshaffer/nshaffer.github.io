@@ -1,6 +1,6 @@
-all : index.html
+all : index.html vitae.html resources.html
 
-%.html : %.m4
+%.html : %.m4 macros.m4
 	m4 $^ > $@
 
 clean : 

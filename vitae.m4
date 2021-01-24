@@ -15,6 +15,9 @@ _itemize(
 _section(`Activities')
 
 _itemize(
+`_activity(Nov 2020, APS Division of Plasma Physics Meeting,
+Talk: "New thermal conductivities for warm dense matter and the age of the galaxy")',
+
 `_activity(Nov 2019, Los Alamos National Laboratory Nambe Meeting,
 "Dense plasma conductivity using the quantum Landau-Fokker-Planck theory")',
 
@@ -46,8 +49,14 @@ Poster: "Density correlations in ultracold neutral plasmas")'
 _section(`Peer-Reviewed Publications')
 
 _enumerate(
+`_article(Multiple scattering theory for dense plasmas,
+`C. E. Starrett and NRS', Phys. Rev. E, 102, 043211, 2020)',
+
+`_article(New Conductive Opacities for White Dwarf Envelopes,
+`S. Blouin, NRS, D. Saumon, and C. E. Starrett', Ap. J., 899, 46, 2020)',
+
 `_article(Model of electron transport in dense plasmas spanning temperature regimes,
-`NRS and C. E. Starrett', Phys. Rev. E, xx, xxxxxx, 2020)',
+`NRS and C. E. Starrett', Phys. Rev. E, 101, 053204, 2020)',
 
 `_article(Model for the electrical conductivity in dense plasma mixtures,
 `C. E. Starrett, NRS, D. Saumon, R. Perriot, T. Nelson, L. A. Collins, and C. Ticknor', High Energy Density Phys., 36, 100752, 2020)',
